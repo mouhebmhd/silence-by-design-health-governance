@@ -1,38 +1,115 @@
-# Constitutional Censorship in Health Subreddits
+# Silence by Design  
+## Constitutional Censorship and Data Governance in Health Online Communities
 
-This repository accompanies the research project **“Constitutional Censorship in Digital Health Communities: A Four-Dimensional Analysis of Silence Production in Health Subreddit Governance.”**
+This repository accompanies the research paper:
 
-The project examines how health-related subreddits construct and legitimize silence through formal community rules that function as constitutional governance documents. Rather than analyzing moderation outcomes or user content, the study focuses exclusively on rule texts as pre-emptive architectures of discourse control.
+**“Silence by Design: Constitutional Censorship and Data Governance in Health Online Communities”**
 
-## Research Focus
+It provides the theoretical framework, methodological structure, and analytical logic used to examine how platform rules function as constitutional documents that engineer silence and shape health literacy in digital communities.
 
-The analysis conceptualizes subreddit rules as instruments of **constitutional censorship**, operating across four analytical dimensions:
+---
 
-- **Silencing Techniques** – How rules restrict speech through prohibitions, source controls, and participation barriers  
-- **Justification Frameworks** – Why censorship is legitimized through scientific, safety, ethical, or community-based rationales  
-- **Enforcement Architecture** – How governance is operationalized through automation, discretion, and sanctioning systems  
-- **Epistemic Impact** – What forms of knowledge, voices, and questions are rendered invisible or illegitimate
+## 🔍 Project Overview
 
-## Scope and Methodology
+Digital health communities are critical spaces for information exchange, support, and collective knowledge production. Yet, the **rules governing these spaces** are rarely examined as instruments of power.
 
-- Document-based qualitative analysis of health subreddit rule sets  
-- No analysis of user-generated content or moderation practices  
-- Focus on constitutional design rather than implementation  
-- Comparative and typological approach across multiple health communities
+This project analyzes **health-related subreddit rules** as **constitutional texts** that:
+- Regulate what can be said
+- Define who can speak
+- Determine which forms of health knowledge are legitimate
+- Create structural barriers to health literacy
 
-## Theoretical Contributions
+Importantly, this study focuses **exclusively on platform rules**, not user-generated content or moderation outcomes.
 
-This project contributes to:
-- Platform governance theory
-- Digital constitutionalism
-- Silence studies
-- Epistemic injustice and health communication research
+---
 
-By treating community rules as foundational governance texts, the study highlights how epistemic boundaries are designed, justified, and enforced in digital health spaces.
+## 🎯 Research Objectives
 
+- Conceptualize platform rules as **constitutional governance documents**
+- Reframe censorship as a form of **data governance**
+- Identify how silence is **engineered structurally**, not incidentally
+- Analyze the implications of rule-based governance for **health literacy and epistemic justice**
 
-> Constitutional Censorship in Digital Health Communities: A Four-Dimensional Analysis of Silence Production in Health Subreddit Governance.
+---
 
-## License
+## 🧩 Analytical Framework
 
-This repository is intended for academic and research use. Licensing details will be added prior to public release.
+The study is built around a **four-dimensional rule analysis framework**:
+
+1. **Silencing Techniques**  
+   How rules restrict speech, participation, and knowledge circulation
+
+2. **Justification Frameworks**  
+   How censorship is legitimized (science, safety, morality, legality)
+
+3. **Enforcement Architecture**  
+   How rules are operationalized (automation, discretion, sanctions)
+
+4. **Epistemic Impact**  
+   What knowledge, voices, and questions are structurally excluded
+
+---
+
+## 🏛 Governance Models Identified
+
+From the rule analysis, four governance models emerge:
+
+- **Clinical Gatekeeper**
+- **Supportive Community**
+- **Inclusive Forum**
+- **Structured Hybrid**
+
+Each model produces distinct patterns of silence and creates different levels of health literacy accessibility.
+
+---
+
+## 📐 Methodological Scope
+
+- **Data source:** Subreddit rules only  
+- **Sample:** 25 health-related subreddits  
+- **Method:** Qualitative constitutional document analysis  
+- **Excluded:**  
+  - User posts or comments  
+  - Moderation actions  
+  - Engagement metrics  
+
+This ensures a **pure analysis of governance design**, not its implementation.
+
+---
+
+## 🧠 Key Contributions
+
+- Introduces a **constitutional approach** to platform governance analysis
+- Advances **silence studies** in digital environments
+- Reconceptualizes censorship as **rule-based data governance**
+- Provides tools for analyzing **health literacy as structurally mediated**
+
+---
+
+---
+
+## ⚠️ Ethical Note
+
+This project does **not** analyze individual users, personal data, or health disclosures.  
+All materials are publicly available platform rules analyzed for scholarly purposes.
+
+---
+
+## 📜 License
+
+This repository is intended for **academic and research use**.  
+License can be added depending on publication requirements.
+
+---
+
+## ✍️ Author
+
+**Mouheb Mehdoui**  
+Researcher in digital governance, health literacy, and platform studies  
+
+---
+
+## 🔗 Citation
+
+Citation information will be added upon publication.
+
