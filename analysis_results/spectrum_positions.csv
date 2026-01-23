@@ -1,0 +1,118 @@
+subreddit,position,pole,censorship_score,curation_score,total_codes
+academicpsychology,0.6,Moderate/Neutral,4,6,10
+addisonsdisease,0.6666666666666666,Participatory Curation,2,4,6
+adhd,0.6,Moderate/Neutral,4,6,10
+adhdfitness,0.0,Pre-emptive Censorship,4,0,4
+adhdireland,0.0,Pre-emptive Censorship,2,0,2
+adhdph,0.875,Participatory Curation,2,14,16
+adhduk,0.25,Pre-emptive Censorship,12,4,16
+adultadhdsupportgroup,1.0,Participatory Curation,0,4,4
+anxietyhelp,0.0,Pre-emptive Censorship,2,0,2
+askadoctor,0.2,Pre-emptive Censorship,8,2,10
+askhealth,0.5,Moderate/Neutral,2,2,4
+asthma,0.5,Moderate/Neutral,0,0,0
+aussiementalhealth,1.0,Participatory Curation,0,6,6
+austeremedicine,0.0,Pre-emptive Censorship,2,0,2
+bariatricsurgery,0.5,Moderate/Neutral,0,0,0
+bchealthauthorities,1.0,Participatory Curation,0,2,2
+blackwomenadhd,0.5,Moderate/Neutral,4,4,8
+bladdercancer,1.0,Participatory Curation,0,4,4
+breastcancersurvivors,0.0,Pre-emptive Censorship,2,0,2
+cervicalcancer,0.3333333333333333,Pre-emptive Censorship,4,2,6
+chemotherapy,0.0,Pre-emptive Censorship,2,0,2
+chronicillnesstips,0.0,Pre-emptive Censorship,2,0,2
+clinicalpharmacy,0.5,Moderate/Neutral,2,2,4
+clinicalpsychology,0.0,Pre-emptive Censorship,2,0,2
+clinicaltrialgame,0.5,Moderate/Neutral,0,0,0
+coronavirus,1.0,Participatory Curation,0,14,14
+coronavirusasthma,0.5,Moderate/Neutral,4,4,8
+coronavirusus,0.6666666666666666,Participatory Curation,2,4,6
+covid19,0.8333333333333334,Participatory Curation,2,10,12
+covidsantaclaraco,1.0,Participatory Curation,0,2,2
+crashercancer,0.5,Moderate/Neutral,0,0,0
+doctormike,0.5,Moderate/Neutral,4,4,8
+editasmedicine,0.5,Moderate/Neutral,0,0,0
+emergencyroom,0.0,Pre-emptive Censorship,4,0,4
+endometrialcancer,0.0,Pre-emptive Censorship,2,0,2
+explantsurgery,0.5,Moderate/Neutral,2,2,4
+familymedicine,0.8333333333333334,Participatory Curation,2,10,12
+generalsurgery,0.0,Pre-emptive Censorship,2,0,2
+gestationaldiabetes,0.3333333333333333,Pre-emptive Censorship,4,2,6
+guthealth,0.5,Moderate/Neutral,0,0,0
+headandneckcancer,0.0,Pre-emptive Censorship,4,0,4
+healingheartsminds,1.0,Participatory Curation,0,2,2
+health,1.0,Participatory Curation,0,4,4
+healthanxiety,0.8181818181818182,Participatory Curation,2,9,11
+healthcare_anon,1.0,Participatory Curation,0,6,6
+healthinsurance,0.0,Pre-emptive Censorship,2,0,2
+healthquestions,0.3333333333333333,Pre-emptive Censorship,4,2,6
+healthyeatingnow,1.0,Participatory Curation,0,2,2
+healthygamergg,0.3333333333333333,Pre-emptive Censorship,4,2,6
+hearthealth,1.0,Participatory Curation,0,2,2
+herpescureadvocates,1.0,Participatory Curation,0,5,5
+hospital,0.5,Moderate/Neutral,0,0,0
+indiamentalhealth,0.6666666666666666,Participatory Curation,2,4,6
+irishwomenshealth,0.5,Moderate/Neutral,2,2,4
+kidneycancer,0.0,Pre-emptive Censorship,2,0,2
+kratomhealthusa,1.0,Participatory Curation,0,2,2
+lgbtqmentalhealth,0.5,Moderate/Neutral,0,0,0
+longcovid,1.0,Participatory Curation,0,2,2
+malesexualhealth,0.5,Moderate/Neutral,0,0,0
+medicationquestions,0.0,Pre-emptive Censorship,2,0,2
+mentalhealthuk,0.6666666666666666,Participatory Curation,6,12,18
+midihealth,0.6666666666666666,Participatory Curation,2,4,6
+military_medicine,0.0,Pre-emptive Censorship,2,0,2
+naturopathicmedicine,0.5,Moderate/Neutral,0,0,0
+neuropsychology,0.6,Moderate/Neutral,4,6,10
+nursinghome,1.0,Participatory Curation,0,2,2
+occupationaltherapy,1.0,Participatory Curation,0,6,6
+occupationaltherapyph,0.5,Moderate/Neutral,0,0,0
+openheartsurgery,0.5,Moderate/Neutral,0,0,0
+pediatriccancer,0.0,Pre-emptive Censorship,2,0,2
+plasticsurgery,1.0,Participatory Curation,0,4,4
+pmddxadhd,0.5,Moderate/Neutral,4,4,8
+pomhealth,0.3333333333333333,Pre-emptive Censorship,4,2,6
+publichealthinfo,1.0,Participatory Curation,0,2,2
+radiationtherapy,1.0,Participatory Curation,0,2,2
+santementale,0.0,Pre-emptive Censorship,2,0,2
+schematherapy,0.0,Pre-emptive Censorship,2,0,2
+separation_anxiety,0.5,Moderate/Neutral,0,0,0
+talesfromthepharmacy,0.5,Moderate/Neutral,2,2,4
+talktherapy,0.5,Moderate/Neutral,4,4,8
+thenurserynurse,1.0,Participatory Curation,0,6,6
+thepatient,1.0,Participatory Curation,0,2,2
+thevaccines,0.5,Moderate/Neutral,0,0,0
+thyroideyedisease,0.0,Pre-emptive Censorship,2,0,2
+tmstherapy,1.0,Participatory Curation,0,2,2
+top_surgery_peri,1.0,Participatory Curation,0,2,2
+traumatherapy,0.0,Pre-emptive Censorship,2,0,2
+twoxadhd,0.2,Pre-emptive Censorship,8,2,10
+universalhealthcare,0.5,Moderate/Neutral,0,0,0
+vaccine,0.8,Participatory Curation,2,8,10
+vascularsurgery,0.0,Pre-emptive Censorship,2,0,2
+veterinarymedicine,0.5,Moderate/Neutral,0,0,0
+vyvanseadhd,0.6666666666666666,Participatory Curation,2,4,6
+womenspelvichealth,0.75,Participatory Curation,2,6,8
+adhdwomen,0.5,Moderate/Neutral,2,2,4
+cardio,1.0,Participatory Curation,0,2,2
+clinicalresearch,1.0,Participatory Curation,0,2,2
+depressionmeals,0.5,Moderate/Neutral,0,0,0
+disease,1.0,Participatory Curation,0,2,2
+hospitalist,0.5,Moderate/Neutral,0,0,0
+malementalhealth,0.5,Moderate/Neutral,0,0,0
+medicine,0.8,Participatory Curation,2,8,10
+mental,0.3333333333333333,Pre-emptive Censorship,4,2,6
+mentalillness,0.0,Pre-emptive Censorship,4,0,4
+nursepractitioner,0.5,Moderate/Neutral,0,0,0
+pharmacy,0.5,Moderate/Neutral,4,4,8
+phdpublichealth,1.0,Participatory Curation,0,2,2
+physicaltherapy,0.3333333333333333,Pre-emptive Censorship,4,2,6
+prediabetes,0.8333333333333334,Participatory Curation,2,10,12
+psychnursing,1.0,Participatory Curation,0,9,9
+psychologystudents,0.3333333333333333,Pre-emptive Censorship,4,2,6
+rarediseases,0.75,Participatory Curation,2,6,8
+redlighttherapy,0.5,Moderate/Neutral,0,0,0
+skincancer,0.5,Moderate/Neutral,2,2,4
+sportspsychology,1.0,Participatory Curation,0,2,2
+therapydogs,1.0,Participatory Curation,0,2,2
+wildernessmedicine,0.6666666666666666,Participatory Curation,2,4,6
